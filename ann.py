@@ -94,7 +94,8 @@ import pandas as pd
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 
 # Load dataset
-df = pd.read_csv("C:\\Users\\RAJESH KUMAR JAIN\\Downloads\\anndataset.csv")
+url = "https://raw.githubusercontent.com/055058vandana/ANN_Project/refs/heads/main/anndataset.csv"
+df = pd.read_csv(url)
 
 # Define train data and labels
 feature_cols = ['tenure', 'MonthlyCharges', 'TotalCharges', 'SeniorCitizen',
