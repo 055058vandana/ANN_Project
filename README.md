@@ -9,7 +9,7 @@ This project focuses on building and deploying an **Artificial Neural Network (A
 - Deploy an interactive dashboard using Streamlit.
 - Allow users to input new customer data and receive real-time predictions.
 
----
+---  ## **Dashboard link** - https://annproject-xrv9eb3ccwjrsqx4zc5tcs.streamlit.app/
 
 ## **Dataset Overview**
 ### **Data Source**
